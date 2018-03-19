@@ -1,4 +1,7 @@
+import Game from 'utils/game.js';
+
 var game = new Game()
+// debugger
 game.init()
 game.addSuccessFn(success)
 game.addFailedFn(failed)

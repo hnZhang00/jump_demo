@@ -449,3 +449,4 @@ Game.prototype = {
       this.size.height = window.innerHeight
   }
 }
+export default Game;
